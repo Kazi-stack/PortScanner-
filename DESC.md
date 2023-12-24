@@ -1,0 +1,1 @@
+Developed a custom Python port scanner for the ethical hacking process. This tool aids in scanning for open ports on a given IP address, providing insights into potential vulnerabilities. By creating my application, I gained a deeper understanding of port-related intricacies and vulnerabilities, enhancing my proficiency in ethical hacking.
